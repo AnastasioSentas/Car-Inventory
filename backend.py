@@ -92,5 +92,5 @@ connector()
 
 #insert('BMW X5 Xdrive 18i', 2021, 37500.0, '3N21768')
 #delete(5)
-update(1,'akys',1,2,'akis')
-print(view())
+#update(1,'akys',1,2,'akis')
+#print(view())
